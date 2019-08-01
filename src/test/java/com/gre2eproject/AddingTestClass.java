@@ -6,7 +6,11 @@ public class AddingTestClass {
 		System.out.println("I am the new change");
 	}
 	
-	public void testdevelopmethod(){
+	public void testdevelopmethod1(){
 		System.out.println("I am the new change");
+	}
+	
+	public void testdevelopmethod2(){
+		System.out.println("I am the new change by architect x");
 	}
 }
